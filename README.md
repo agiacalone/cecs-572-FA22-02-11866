@@ -1,12 +1,12 @@
-# Introduction to Computer Security
+# Advanced Computer Networking
 
-## CECS 478: Section 1 (5874)
+## CECS 572: Section 2 (11866)
 
 ### Fall 2022
 
 | Class Lecture | Time                | Room    |
 |---------------|---------------------|---------|
-| Mon Wed       | 11:00 AM - 12:15 PM | ECS-308 |
+| Mon Wed       | 4:00 PM - 5:15 PM   | ECS-413 |
 
 | Instructor        | Email                       | Office  | Office Hours                  |
 |-------------------|-----------------------------|---------|-------------------------------|
@@ -14,25 +14,24 @@
 
 ### Required Textbook
 
-* [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441) by Jon Erikson. 2008. 2nd edition.
+* [Computer Networks](https://www.amazon.com/Computer-Networks-5th-Andrew-Tanenbaum/dp/0132126958) by Andrew Tanenbaum. 2010. 5th edition.
 
 ### Catalog Description
 
-**Prerequisite**: CECS 328 or CECS 346 with a grade of “C” or better.
-Controlling the risk of computer security. Security threats and vulnerabilities in the development and use of computer systems. Tools and controls that can reduce or block these threats. Law, privacy and ethics.
+**Prerequisite**: Open to Computer Engineering MS, Computer Science MS and Engineering MS students only.
+Advanced concepts in computer network theory and practice. Computer network design and standards for local area networks (LANs) and wide area networks (WANs). Computer network configuration and performance issues. Master’s students register in CECS 572 or CECS 672; Ph.D. students register in CECS 672. Additional projects required for CECS 672.
 
-Letter grade only (A-F). (Lecture-problems 3 hours) Not open for credit to students with credit in CECS 478H. 
+Letter grade only (A-F). (Lecture-problems 3 hours). Double Numbered with: CECS 672. 
 
 ### Course Goals
 
 By the conclusion of this course, students will be able to:
 
-* Understand the meaning and risks of computer security
-* Apply problem solving skills to recognize and solve security problems
-* Understand, recognize, and know how to avoid the main security vulnerabilities
-* Make ethical decisions with respect to computer security and user privacy
-* Know how to design and analyze a secure computer system in general
-* Have a solid understanding of current, topical issues in computer security 
+* Understand the various architectures related to distributed computing systems
+* Have a practical understanding of network protocols and APIs
+* Expand knowledge of interprocess communications and data syncronization
+* Have a foundational knowledgebase of cloud computing and large-scale data services
+* Understand the challenges of networked data storage and file access
 
 | Grading           |      | | Grade Scale |    |
 |-------------------|------|-|-------------|----|
@@ -64,27 +63,6 @@ Homework and lab assignments will be assigned approximately every other week, an
 * All source code submitted must be adequately commented in order to receive credit. Source code which is not commented with the student's own comments *will not receive any credit*.
 
 **Late assignments** will, at a minimum, be subject to a 10% reduction in grade *per day* that the assignment is late. I do not accept homework submissions via email, fax, or any other means than the deliverable requirements listed on the assignment specification.
-
-### Tentative Class Schedule
-
-|  Week      | Subject                                             |
-|------------|-----------------------------------------------------|
-| Aug 22     | Introduction to Computer Security and Hacking (Ch 1)|
-| Aug 29     | Programming for Hackers (Ch 2)                      |
-| Sep  5     | Exploitation (Ch 3)                                 |
-| Sep 12     | Exploitation, ctd.                                  |
-| Sep 19     | First exam, Networking (Ch 4)                       |
-| Sep 26     | Networking, ctd.                                    |
-| Oct  3     | Shellcode (Ch 5)                                    |
-| Oct 10     | Shellcode, ctd.                                     |
-| Oct 17     | Second Exam, Countermeasures (Ch 6)                 |
-| Oct 24     | Countermeasures, ctd.                               |
-| Oct 31     | Cryptography/Cryptology (Ch 7)                      |
-| Nov  7     | Crypto, ctd.                                        |
-| Nov 14     | Crypto, ctd.                                        |
-| Nov 21     | Fall Break                                          |
-| Nov 28     | Case Studies in Hacking                             |
-| Dec 5-12   | Case Study, Final Exam                              |
 
 ### Computer Software
 
