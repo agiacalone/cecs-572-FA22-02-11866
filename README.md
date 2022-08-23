@@ -6,7 +6,7 @@
 
 | Class Lecture | Time                | Room    |
 |---------------|---------------------|---------|
-| Mon Wed       | 4:00 PM - 5:15 PM   | ECS-413 |
+| Mon Wed       | 3:30 PM - 4:45 PM   | ECS-413 |
 
 | Instructor        | Email                       | Office  | Office Hours                  |
 |-------------------|-----------------------------|---------|-------------------------------|
@@ -27,11 +27,13 @@ Letter grade only (A-F). (Lecture-problems 3 hours). Double Numbered with: CECS 
 
 By the conclusion of this course, students will be able to:
 
-* Understand the various architectures related to distributed computing systems
-* Have a practical understanding of network protocols and APIs
-* Expand knowledge of interprocess communications and data syncronization
-* Have a foundational knowledgebase of cloud computing and large-scale data services
-* Understand the challenges of networked data storage and file access
+* Understand various network topoligies and their design and usage
+* Gain a greater insight into traditional networking protocols like TCP/IP
+* Apply knowledge from the classic forms of computer networks to newer ones
+* Understand the tradeoffs and limitations of different types of networking, such as ad-hoc, mesh, peer-to-peer
+* Have a solid understanding of sockets, ports, interfaces, and other various networking components
+* Make ethical decisions with respect to user privacy and data protection
+
 
 | Grading           |      | | Grade Scale |    |
 |-------------------|------|-|-------------|----|
